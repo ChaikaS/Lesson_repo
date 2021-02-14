@@ -1,0 +1,24 @@
+{
+  "name": "lesson_repo",
+  "version": "0.0.1",
+  "description": "Cowsay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaikaS/Lesson_repo.git"
+  },
+  "author": "Chaikovsky Serei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaikaS/Lesson_repo/issues"
+  },
+  "homepage": "https://github.com/ChaikaS/Lesson_repo#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "request": "^2.88.2"
+  }
+}
